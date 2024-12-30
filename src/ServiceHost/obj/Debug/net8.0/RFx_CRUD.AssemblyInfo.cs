@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RFx_CRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a2d04e8ddfd4cb429ab175e82527a9885749898")]
 [assembly: System.Reflection.AssemblyProductAttribute("RFx_CRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RFx_CRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,4 +10,11 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BussinesLayer.RFx\BussinesLayer.RFx.csproj" />
+    <ProjectReference Include="..\Controllers.RFx\Controllers.RFx.csproj" />
+    <ProjectReference Include="..\DataLayer.RFx\DataLayer.RFx.csproj" />
+    <ProjectReference Include="..\Models.RFx\Models.RFx.csproj" />
+  </ItemGroup>
+
 </Project>

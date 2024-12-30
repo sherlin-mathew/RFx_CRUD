@@ -88,6 +88,50 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "BussinesLayer.RFx/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BussinesLayer.RFx.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BussinesLayer.RFx.dll": {}
+        }
+      },
+      "Controllers.RFx/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Models.RFx": "1.0.0",
+          "Swashbuckle.AspNetCore": "6.4.0"
+        },
+        "compile": {
+          "bin/placeholder/Controllers.RFx.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Controllers.RFx.dll": {}
+        }
+      },
+      "DataLayer.RFx/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DataLayer.RFx.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataLayer.RFx.dll": {}
+        }
+      },
+      "Models.RFx/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Models.RFx.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.RFx.dll": {}
+        }
       }
     }
   },
@@ -420,10 +464,34 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "BussinesLayer.RFx/1.0.0": {
+      "type": "project",
+      "path": "../BussinesLayer.RFx/BussinesLayer.RFx.csproj",
+      "msbuildProject": "../BussinesLayer.RFx/BussinesLayer.RFx.csproj"
+    },
+    "Controllers.RFx/1.0.0": {
+      "type": "project",
+      "path": "../Controllers.RFx/Controllers.RFx.csproj",
+      "msbuildProject": "../Controllers.RFx/Controllers.RFx.csproj"
+    },
+    "DataLayer.RFx/1.0.0": {
+      "type": "project",
+      "path": "../DataLayer.RFx/DataLayer.RFx.csproj",
+      "msbuildProject": "../DataLayer.RFx/DataLayer.RFx.csproj"
+    },
+    "Models.RFx/1.0.0": {
+      "type": "project",
+      "path": "../Models.RFx/Models.RFx.csproj",
+      "msbuildProject": "../Models.RFx/Models.RFx.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BussinesLayer.RFx >= 1.0.0",
+      "Controllers.RFx >= 1.0.0",
+      "DataLayer.RFx >= 1.0.0",
+      "Models.RFx >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -434,11 +502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sherl\\source\\repos\\RFx\\RFx_CRUD\\src\\ServiceHost\\RFx_CRUD.csproj",
+      "projectUniqueName": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\ServiceHost\\RFx_CRUD.csproj",
       "projectName": "RFx_CRUD",
-      "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx\\RFx_CRUD\\src\\ServiceHost\\RFx_CRUD.csproj",
+      "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\ServiceHost\\RFx_CRUD.csproj",
       "packagesPath": "C:\\Users\\sherl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sherl\\source\\repos\\RFx\\RFx_CRUD\\src\\ServiceHost\\obj\\",
+      "outputPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\ServiceHost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -458,7 +526,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\BussinesLayer.RFx\\BussinesLayer.RFx.csproj": {
+              "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\BussinesLayer.RFx\\BussinesLayer.RFx.csproj"
+            },
+            "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Controllers.RFx\\Controllers.RFx.csproj": {
+              "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Controllers.RFx\\Controllers.RFx.csproj"
+            },
+            "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj": {
+              "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj"
+            },
+            "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj": {
+              "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
