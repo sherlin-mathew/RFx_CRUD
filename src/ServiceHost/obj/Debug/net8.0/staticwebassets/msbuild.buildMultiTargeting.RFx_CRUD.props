@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RFx_CRUD.props" />
+</Project>

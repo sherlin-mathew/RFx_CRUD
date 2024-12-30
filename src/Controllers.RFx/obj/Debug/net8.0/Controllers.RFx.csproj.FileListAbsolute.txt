@@ -1,0 +1,5 @@
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\Controllers.RFx\obj\Debug\net8.0\Controllers.RFx.csproj.AssemblyReference.cache
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\Controllers.RFx\obj\Debug\net8.0\Controllers.RFx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\Controllers.RFx\obj\Debug\net8.0\Controllers.RFx.AssemblyInfoInputs.cache
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\Controllers.RFx\obj\Debug\net8.0\Controllers.RFx.AssemblyInfo.cs
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\Controllers.RFx\obj\Debug\net8.0\Controllers.RFx.csproj.CoreCompileInputs.cache

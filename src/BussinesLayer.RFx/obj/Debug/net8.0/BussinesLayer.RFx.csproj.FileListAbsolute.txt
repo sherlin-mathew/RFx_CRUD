@@ -1,0 +1,11 @@
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\bin\Debug\net8.0\BussinesLayer.RFx.deps.json
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\bin\Debug\net8.0\BussinesLayer.RFx.dll
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\bin\Debug\net8.0\BussinesLayer.RFx.pdb
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\obj\Debug\net8.0\BussinesLayer.RFx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\obj\Debug\net8.0\BussinesLayer.RFx.AssemblyInfoInputs.cache
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\obj\Debug\net8.0\BussinesLayer.RFx.AssemblyInfo.cs
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\obj\Debug\net8.0\BussinesLayer.RFx.csproj.CoreCompileInputs.cache
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\obj\Debug\net8.0\BussinesLayer.RFx.dll
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\obj\Debug\net8.0\refint\BussinesLayer.RFx.dll
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\obj\Debug\net8.0\BussinesLayer.RFx.pdb
+C:\Users\sherl\source\repos\RFx\RFx_CRUD\src\BussinesLayer.RFx\obj\Debug\net8.0\ref\BussinesLayer.RFx.dll
