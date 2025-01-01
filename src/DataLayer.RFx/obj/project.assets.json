@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Models.RFx/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Models.RFx.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.RFx.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Models.RFx/1.0.0": {
+      "type": "project",
+      "path": "../Models.RFx/Models.RFx.csproj",
+      "msbuildProject": "../Models.RFx/Models.RFx.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Models.RFx >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\sherl\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj": {
+              "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

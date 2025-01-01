@@ -31,6 +31,153 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj": {
+                "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj"
+              },
+              "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj": {
+                "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj",
+        "projectName": "DataLayer.RFx",
+        "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj",
+        "packagesPath": "C:\\Users\\sherl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sherl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj": {
+                "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj",
+        "projectName": "Models.RFx",
+        "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj",
+        "packagesPath": "C:\\Users\\sherl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sherl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },

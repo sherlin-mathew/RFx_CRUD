@@ -6,4 +6,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+	<ItemGroup>
+		<packageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.0" />
+		<PackageReference Include="xunit.runner.visualstudio" Version="3.0.0" />
+		<PackageReference Include="xunit" Version="2.9.2" />
+		<PackageReference Include="Microsoft.Extensions.Logging" Version="9.0.0" />
+		<PackageReference Include="Moq" Version="4.16.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\src\BussinesLayer.RFx\BussinesLayer.RFx.csproj" />
+	  <ProjectReference Include="..\src\DataLayer.RFx\DataLayer.RFx.csproj" />
+	  <ProjectReference Include="..\src\Models.RFx\Models.RFx.csproj" />
+	</ItemGroup>
+
 </Project>

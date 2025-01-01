@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnitTest.RFx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a2d04e8ddfd4cb429ab175e82527a9885749898")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e68f6e629127a0a092e24578d169d7fdf95140b")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnitTest.RFx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnitTest.RFx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

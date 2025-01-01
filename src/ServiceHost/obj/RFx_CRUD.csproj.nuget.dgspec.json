@@ -31,7 +31,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj": {
+                "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj"
+              },
+              "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj": {
+                "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -49,6 +56,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -97,6 +110,12 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\BussinesLayer.RFx\\BussinesLayer.RFx.csproj": {
+                "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\BussinesLayer.RFx\\BussinesLayer.RFx.csproj"
+              },
+              "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj": {
+                "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\DataLayer.RFx.csproj"
+              },
               "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj": {
                 "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj"
               }
@@ -171,7 +190,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj": {
+                "projectPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Models.RFx.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

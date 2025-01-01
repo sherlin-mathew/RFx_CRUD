@@ -79,3 +79,10 @@ C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\obj\Debug\net8.0\refint\RFx
 C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\obj\Debug\net8.0\RFx_CRUD.pdb
 C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\obj\Debug\net8.0\RFx_CRUD.genruntimeconfig.cache
 C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\obj\Debug\net8.0\ref\RFx_CRUD.dll
+C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sherl\source\repos\RFx_CRUD\src\ServiceHost\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
