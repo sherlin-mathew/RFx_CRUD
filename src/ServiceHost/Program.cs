@@ -12,7 +12,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IEmployeeRepository,EmployeeRepository>();
-builder.Services.AddScoped<IEmployeeBussines, EmployeeService>();
+builder.Services.AddScoped<IEmployeeService, EmployeeService>();
 builder.Services.AddLogging(loggingBuilder => 
 {
     loggingBuilder.AddConsole(); 

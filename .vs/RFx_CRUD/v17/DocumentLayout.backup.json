@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32D57DBE-AEA6-47C5-8D76-2A13D76B7C54}|UnitTest.RFx\\UnitTest.RFx.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\unittest.rfx\\employeebusinesstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32D57DBE-AEA6-47C5-8D76-2A13D76B7C54}|UnitTest.RFx\\UnitTest.RFx.csproj|solutionrelative:unittest.rfx\\employeebusinesstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA8E9208-752C-4313-9309-1953DDA24F8C}|src\\Controllers.RFx\\Controllers.RFx.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\src\\controllers.rfx\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8E9208-752C-4313-9309-1953DDA24F8C}|src\\Controllers.RFx\\Controllers.RFx.csproj|solutionrelative:src\\controllers.rfx\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97D0D122-3AF9-4872-9CD7-2D4F2F333E86}|src\\Models.RFx\\Models.RFx.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\src\\models.rfx\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D0D122-3AF9-4872-9CD7-2D4F2F333E86}|src\\Models.RFx\\Models.RFx.csproj|solutionrelative:src\\models.rfx\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA8E9208-752C-4313-9309-1953DDA24F8C}|src\\Controllers.RFx\\Controllers.RFx.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\src\\controllers.rfx\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA8E9208-752C-4313-9309-1953DDA24F8C}|src\\Controllers.RFx\\Controllers.RFx.csproj|solutionrelative:src\\controllers.rfx\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715D3855-0BCE-4E00-B39B-059E492649E6}|src\\ServiceHost\\RFx_CRUD.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\src\\servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715D3855-0BCE-4E00-B39B-059E492649E6}|src\\ServiceHost\\RFx_CRUD.csproj|solutionrelative:src\\servicehost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA02FFC-F6B5-45DC-A638-38E23224587F}|src\\BussinesLayer.RFx\\BussinesLayer.RFx.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\src\\bussineslayer.rfx\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA02FFC-F6B5-45DC-A638-38E23224587F}|src\\BussinesLayer.RFx\\BussinesLayer.RFx.csproj|solutionrelative:src\\bussineslayer.rfx\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA02FFC-F6B5-45DC-A638-38E23224587F}|src\\BussinesLayer.RFx\\BussinesLayer.RFx.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\src\\bussineslayer.rfx\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA02FFC-F6B5-45DC-A638-38E23224587F}|src\\BussinesLayer.RFx\\BussinesLayer.RFx.csproj|solutionrelative:src\\bussineslayer.rfx\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BEB6107-BE0D-402E-AC20-1353A9F42066}|src\\DataLayer.RFx\\DataLayer.RFx.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\src\\datalayer.rfx\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BEB6107-BE0D-402E-AC20-1353A9F42066}|src\\DataLayer.RFx\\DataLayer.RFx.csproj|solutionrelative:src\\datalayer.rfx\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEB6107-BE0D-402E-AC20-1353A9F42066}|src\\DataLayer.RFx\\DataLayer.RFx.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\src\\datalayer.rfx\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEB6107-BE0D-402E-AC20-1353A9F42066}|src\\DataLayer.RFx\\DataLayer.RFx.csproj|solutionrelative:src\\datalayer.rfx\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97D0D122-3AF9-4872-9CD7-2D4F2F333E86}|src\\Models.RFx\\Models.RFx.csproj|c:\\users\\sherl\\source\\repos\\rfx_crud\\src\\models.rfx\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D0D122-3AF9-4872-9CD7-2D4F2F333E86}|src\\Models.RFx\\Models.RFx.csproj|solutionrelative:src\\models.rfx\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeBusinessTest.cs",
-              "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\UnitTest.RFx\\EmployeeBusinessTest.cs",
-              "RelativeDocumentMoniker": "UnitTest.RFx\\EmployeeBusinessTest.cs",
-              "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\UnitTest.RFx\\EmployeeBusinessTest.cs",
-              "RelativeToolTip": "UnitTest.RFx\\EmployeeBusinessTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABHAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\BussinesLayer.RFx\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "src\\BussinesLayer.RFx\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\BussinesLayer.RFx\\EmployeeService.cs",
+              "RelativeToolTip": "src\\BussinesLayer.RFx\\EmployeeService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:18:40.832Z",
+              "WhenOpened": "2025-01-05T00:14:11.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Employee.cs",
-              "RelativeDocumentMoniker": "src\\Models.RFx\\Employee.cs",
-              "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\Employee.cs",
-              "RelativeToolTip": "src\\Models.RFx\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T16:09:56.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "src\\DataLayer.RFx\\EmployeeRepository.cs",
               "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\EmployeeRepository.cs",
               "RelativeToolTip": "src\\DataLayer.RFx\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T19:55:10.223Z",
+              "WhenOpened": "2025-01-05T00:09:36.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "src\\DataLayer.RFx\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\DataLayer.RFx\\IEmployeeRepository.cs",
+              "RelativeToolTip": "src\\DataLayer.RFx\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:08:46.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Controllers.RFx\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers.RFx\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Controllers.RFx\\EmployeeController.cs",
+              "RelativeToolTip": "src\\Controllers.RFx\\EmployeeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T23:57:53.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "src\\Models.RFx\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Models.RFx\\WeatherForecast.cs",
+              "RelativeToolTip": "src\\Models.RFx\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T04:07:04.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Controllers.RFx\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "src\\Controllers.RFx\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\Controllers.RFx\\WeatherForecastController.cs",
+              "RelativeToolTip": "src\\Controllers.RFx\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T03:53:08.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\BussinesLayer.RFx\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "src\\BussinesLayer.RFx\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\BussinesLayer.RFx\\IEmployeeService.cs",
+              "RelativeToolTip": "src\\BussinesLayer.RFx\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:14:15.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\ServiceHost\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ServiceHost\\Program.cs",
+              "ToolTip": "C:\\Users\\sherl\\source\\repos\\RFx_CRUD\\src\\ServiceHost\\Program.cs",
+              "RelativeToolTip": "src\\ServiceHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T00:41:40.604Z",
               "EditorCaption": ""
             }
           ]

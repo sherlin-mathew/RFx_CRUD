@@ -25,5 +25,9 @@ namespace EmployeeApi.Repositories
             return _employees.FirstOrDefault(e => e.employerID == id); 
              
         }
-    } 
+
+        public async Task<List<Employee>> GetAllEmployeers()
+        {
+            return _employees; 
+    }   }  
 }

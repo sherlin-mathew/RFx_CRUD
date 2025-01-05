@@ -8,15 +8,16 @@ namespace EmployeeControllers.RFx
     [Route("api/[controller]")]
     public class EmployeesController : ControllerBase
     { 
-        private readonly IEmployeeBussines _employeeService;
+        private readonly IEmployeeService _employeeService;
         private readonly ILogger<EmployeesController> _logger;
-        public EmployeesController(IEmployeeBussines employeeService, ILogger<EmployeesController> logger) 
+        public EmployeesController(IEmployeeService employeeService, ILogger<EmployeesController> logger) 
         { 
             _employeeService = employeeService;
             _logger = logger;
         } 
-        [HttpGet] 
-        public async Task<ActionResult<Employee>> GetEmployeeById(int id) 
+        [HttpGet]
+        [Route("getbyid")]
+        public async Task<IActionResult> GetEmployeeById(int id) 
         {
             _logger.LogInformation("Received request to get employee by ID: {Id}", id);
             var employee = await _employeeService.GetEmployeeById(id); 
@@ -28,5 +29,33 @@ namespace EmployeeControllers.RFx
             _logger.LogInformation("Returning employee details for ID: {Id}", id);
             return Ok(employee);
         } 
+        [HttpGet]
+        [Route("getall")]
+        public async Task<IActionResult> GetAllEmployeers()
+        {
+            _logger.LogInformation("Received request to get all employees");
+            var employees = await _employeeService.GetAllEmployeers();
+            if (employees == null)
+            {
+                _logger.LogWarning("No employees found");
+                return NotFound();
+            }
+            _logger.LogInformation("Returning all employees");
+            return Ok(employees);
+        }
+        [HttpPost]
+        [Route("Create")]
+        public async Task<IActionResult> CreateEmployeer(Employee employee)
+        {
+            _logger.LogInformation("Received request to create employee");
+            var newEmployee = await _employeeService.CreateEmployeer(employee);
+            if (newEmployee == null)
+            {
+                _logger.LogWarning("Failed to create employee");
+                return BadRequest();
+            }
+            _logger.LogInformation("Employee created successfully");
+            return Ok(newEmployee);
+        }
     }
 }
