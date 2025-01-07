@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BussinesLayer.RFx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fea35703e20d81884bbf4f5cb178289314cad97")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d83a9a30ec5af7c00eed180a9ff47486eda1d4d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BussinesLayer.RFx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BussinesLayer.RFx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

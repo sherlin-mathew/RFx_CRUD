@@ -6,6 +6,6 @@ namespace EmployeeBussinesLayer.RFx
     { 
         Task<Employee> GetEmployeeById(int id);
         Task<List<Employee>> GetAllEmployeers();
-        Task<Employee> AddEmployee(Employee employee);
+        //Task<Employee> AddEmployee(Employee employee);
     }
 }
